@@ -40,13 +40,11 @@ tinytex::install_tinytex() # only if you want PDF output
 ```
 
 ## ▶️ How to Use
-Clone or download this repository.
+1. Clone or download this repository.
+2. Open any .Rmd file in RStudio.
+3. Ensure the corresponding dataset (CSV) is available in your working directory.
+4. Click Knit to generate an HTML or PDF report.
 
-Open any .Rmd file in RStudio.
-
-Ensure the corresponding dataset (CSV) is available in your working directory.
-
-Click Knit to generate an HTML or PDF report.
 ---
 
 ## 🤝 Contributing
