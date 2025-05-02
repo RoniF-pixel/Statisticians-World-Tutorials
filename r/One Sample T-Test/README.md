@@ -56,7 +56,7 @@ To support Unicode characters in subscripts (e.g., H₀), use:
 output:
   pdf_document:
     latex_engine: xelatex
-
+```
 ---
 
 ## How to Run
