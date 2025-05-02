@@ -2,7 +2,7 @@
 
 This project demonstrates how to conduct a **One-Way ANOVA** using R to determine whether different fertilizer types significantly affect crop yield. The analysis includes assumption checks and post-hoc comparisons using Tukey's HSD.
 
-📅 **Date of Analysis:** August 8, 2024  
+📅 **Date of Analysis:** August 22, 2024  
 
 🎥 **Author:** [Statisticians World on YouTube](https://www.youtube.com/@statisticiansworld8912)
 
