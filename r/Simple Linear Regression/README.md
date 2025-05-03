@@ -5,6 +5,7 @@ This repository demonstrates how to conduct a simple linear regression analysis 
 
 ---
 ## 🧪 Objective
+
 To explore the linear relationship between systolic blood pressure (SBP) and LDL cholesterol (LDL) using visualizations, summary statistics, and regression modeling.
 ---
 ## 📂 File Structure
