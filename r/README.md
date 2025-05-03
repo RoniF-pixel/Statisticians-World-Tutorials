@@ -26,7 +26,17 @@ Each folder below contains:
 ### 📈 ANOVA Models
 - **One-Way ANOVA** – `one-way-anova/`
 
-*(More modules will be added soon as the playlist expands.)*
+### 📈 Simple Linear Regression – simple-linear-regression/
+Learn how to model the relationship between systolic blood pressure and LDL cholesterol using simple linear regression.
+Includes data exploration, visualization, model fitting, and interpretation.
+
+### 📊 Multiple Linear Regression – multiple-linear-regression/
+Build a multiple linear regression model to predict LDL cholesterol levels based on tobacco use, obesity, alcohol consumption, and age.
+Covers diagnostic plots, assumptions checking, and regression interpretation.
+
+### 🧠 Logistic Regression – logistic-regression/
+Perform binary classification to predict coronary heart disease using logistic regression with tidymodels and glmnet.
+Includes EDA, model training, prediction, and evaluation.
 
 ---
 
