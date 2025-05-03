@@ -9,9 +9,8 @@ This project demonstrates how to perform a **Multiple Linear Regression (MLR)** 
 
 - Load and explore the dataset (`CHDdata.csv`)
 - Build and interpret a multiple linear regression model:
-  $$
-  \text{LDL} = \beta_0 + \beta_1 \cdot \text{Tobacco} + \beta_2 \cdot \text{Obesity} + \beta_3 \cdot \text{Alcohol} + \beta_4 \cdot \text{Age} + \epsilon
-  $$
+ LDL = β₀ + β₁ × Tobacco + β₂ × Obesity + β₃ × Alcohol + β₄ × Age + ϵ
+
 - Assess model assumptions:
   - Linearity
   - Normality of residuals
